@@ -47,9 +47,7 @@ how will Bob and Jim speak to Zayn and Toby?
 - 
 Pings can be performed against devices on a network, such as your home network or resources like websites. This tool can be easily used and comes installed on Operating Systems (OSs) such as Linux and Windows. The syntax to do a simple ping is `ping IP address or website URL`. Let's see this in action in the screenshot below.
 
-  
-
-![](https://assets.tryhackme.com/additional/networking-fundamentals/intro-to-networking/ping/ping1.png)
+![image](.attachments/f55fc1c3300c1a3d1b72012ed64839deaee1404c.png) 
 
 ![image](.attachments/0ca87eb6f1f6d6a8f385955b0c69d6135c03e5c3.png) 
 
