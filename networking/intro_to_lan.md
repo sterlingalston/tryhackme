@@ -7,6 +7,11 @@
 
 - devices are individually connected via a central networking device known as a _switch_ or _hub_
 - information sent to a device is sent via the central device
-- more expensive than any other topology, but more 
-sdfa | sadfa
--asdfa|-sadfa
+- more expensive than any other topology, but more scalable
+- more it scales, more maintenance is required
+- prone to failure, albeit reduced
+- if central device fails, nothing will be sent!
+
+#### Bus Topology
+
+
