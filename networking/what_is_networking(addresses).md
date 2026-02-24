@@ -25,7 +25,7 @@ how will Bob and Jim speak to Zayn and Toby?
 - ![image](.attachments/726d0d3496df92c24310aaaf1601ad42e3893732.png)
 - public address is used to identify the device on the Internet, whereas a private address is used to identify a device amongst other devices
 - public IP address is from ISP!
-- ![https://assets.tryhackme.com/additional/cmn-aoc2020/day-8/2.png](https://assets.tryhackme.com/additional/cmn-aoc2020/day-8/2.png)
+- ![image](https://sterlingalston.github.io/tryhackme/networking/.attachments/39a37370010fa275ab5bf58e791b38147aa6afab.png)
 - Cisco estimates 50 billion IP addresses in the world by end of 2021
 - IPv6 is a new iteration of the Internet Protocol addressing scheme to help tackle this issue. Although it is seemingly more daunting, it boasts a few benefits:
 
