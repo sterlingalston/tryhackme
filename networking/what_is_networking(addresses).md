@@ -31,7 +31,7 @@ how will Bob and Jim speak to Zayn and Toby?
 
 -   Supports up to 2^128 of IP addresses (340 trillion-plus), resolving the issues faced with IPv4
 -   More efficient due to new methodologies
-![](https://assets.tryhackme.com/additional/networking-fundamentals/intro-to-networking/ipv6.png)
+![image](.attachments/507bcb36d140d4bb5734204d0268f04e0c6172bd.png) 
 
 ### MAC Addresses
 
