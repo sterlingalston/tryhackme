@@ -41,3 +41,6 @@
 - devices plug into switch ports
 - usually found in larger networks (businesses, schools, etc)
 - ports of 4,8,16...64
+- keep track of what devices is connected to which port
+  - this is _unlike a hub_ which will send the same packed to every port
+  - reduced network traffic
