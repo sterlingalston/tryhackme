@@ -69,4 +69,7 @@
 
 ![image](.attachments/4985b5719ce4265c639d85440224091affaedf32.png) 
 
+- an IP address is made up of four sections called octets. The same goes for a subnet mask which is also represented as a number of four bytes (32 bits), ranging from 0 to 255 (0-255).
+- 
+
 
