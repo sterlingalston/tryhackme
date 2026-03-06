@@ -12,6 +12,7 @@
 - prone to failure, albeit reduced
 - if central device fails, nothing will be sent!
 - switches don't usually die often, and when they do you can get a better newer one
+- _**most common**_
 
 #### Bus Topology
 
@@ -34,6 +35,7 @@
 - traveling in only one direction, fairly easy to troubleshoot any faults
 - but has to visit multiple devices first before reaching intended
 - less prone to bottlenecks, unlike bus topology; a fault like a cable cut will result in network breaking
+- _**less common**_
 
 ### What is a Switch?
 
@@ -44,6 +46,7 @@
 - keep track of what devices is connected to which port
   - this is _unlike a hub_ which will send the same packed to every port
   - reduced network traffic
+- easier to break something into packets (like moving smaller boxes)
 
 ![image](.attachments/97c3448c33e44ce7282b5a40a7c0b0a36c52f336.png) 
 
