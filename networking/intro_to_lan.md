@@ -56,3 +56,13 @@
 - _routing_ is the process of data travelling across networks; creating a path between networks so that this data can be successfully delivered
 
 ![image](.attachments/74374b4df1e40165438d43747930b4ed3ffb7f9c.png) 
+
+### A Primer on Subnetting
+
+- _**subnetting**_ splitting up a network into smaller, miniature networks within itself
+- slicing cake up with friends, everyone gets a piece
+- business example:
+- ![image](.attachments/7ac21273ea091f9d6833c35f6015cf3e022d3ca2.png)
+
+- network admins use subnetting to categorise specific parts of a network to reflect this
+- splitting number of hosts that can fit in network, represented by subnet mask
