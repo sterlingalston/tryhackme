@@ -51,3 +51,5 @@
 
 - a router's job to connect networks and pass data between them. It does this by using routing (hence the name router!).
 - _routing_ is the process of data travelling across networks; creating a path between networks so that this data can be successfully delivered
+
+![image](.attachments/74374b4df1e40165438d43747930b4ed3ffb7f9c.png) 
