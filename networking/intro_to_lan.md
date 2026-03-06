@@ -66,3 +66,7 @@
 
 - network admins use subnetting to categorise specific parts of a network to reflect this
 - splitting number of hosts that can fit in network, represented by subnet mask
+
+![image](.attachments/4985b5719ce4265c639d85440224091affaedf32.png) 
+
+
