@@ -44,3 +44,10 @@
 - keep track of what devices is connected to which port
   - this is _unlike a hub_ which will send the same packed to every port
   - reduced network traffic
+
+![image](.attachments/97c3448c33e44ce7282b5a40a7c0b0a36c52f336.png) 
+
+### What is a Router?
+
+- a router's job to connect networks and pass data between them. It does this by using routing (hence the name router!).
+- _routing_ is the process of data travelling across networks; creating a path between networks so that this data can be successfully delivered
