@@ -7,8 +7,8 @@
 - once the recipient opens the _envelop_, they will know how to forward the _packet_
 - process is called _**encapsulation**_ which we discussed in [room 3: the OSI model](https://tryhackme.com/room/osimodelzi)
 - packets are efficient because the data is moved in small pieces across network devices
-- packet = Layer 3
-- frame = Layer 2
+- packet = Layer 3 -- _**\[HAS IP ADDRESS\]**_
+- frame = Layer 2 --**\[DOES NOT HAVE] IP ADDRESS\]**
 - packet using this protocol will have a set of headers that contain additional pieces of information to the data that is being sent across a network.
 
 Some notable headers include:
