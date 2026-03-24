@@ -85,3 +85,9 @@ Any sent data is given a random number sequence and is reconstructed using this 
 | Source Port | This value is the port that is opened by the sender to send the UDP packet from. This value is randomly chosen (out of the ports from 0-65535 that aren't already in use at the time). |
 | Destination Port | This value is the port number that an application or service is running on the remote host (the one receiving the data); for example, a webserver running on port 80. Unlike the source port, this value is not chosen at random. |
 | Data | This header is where data, i.e. bytes of a file that is being transmitted, is stored. |
+
+- UDP is **stateless**: no acknowledgement is sent during connection
+
+- ![image](.attachments/2bda37b290faad32c0eaf66c60158d35fc42dc87.png)
+
+
