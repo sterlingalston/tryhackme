@@ -64,6 +64,9 @@ Any sent data is given a random number sequence and is reconstructed using this 
 - TCP consumes resources on device, so best to close connection as soon as possible
 - ![image](.attachments/d03aa03776453b3767db60f82a0e43e91c0e64ab.png)
 
+### UDP/IP
+
+
 **U**ser **D**atagram **P**rotocol (**UDP**) is another protocol that is used to communicate data between devices
 
 |     |     |
@@ -90,4 +93,5 @@ Any sent data is given a random number sequence and is reconstructed using this 
 
 - ![image](.attachments/2bda37b290faad32c0eaf66c60158d35fc42dc87.png)
 
+### Ports 101 (Practical)
 
