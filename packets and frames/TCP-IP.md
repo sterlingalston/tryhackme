@@ -95,3 +95,10 @@ Any sent data is given a random number sequence and is reconstructed using this 
 
 ### Ports 101 (Practical)
 
+- ports are essential point which data can be exchanged
+- ships and **ports**
+- Networking devices also use ports to enforce strict rules when communicating with one another
+- numerical between **0 and 65535**
+- 
+
+
