@@ -1,4 +1,4 @@
-https://tryhackme.com/room/extendingyournetwork
+https://tryhackme.com/room/dnsindetail
 
 WATCH THE VIDEO
 
