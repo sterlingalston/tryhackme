@@ -50,3 +50,12 @@ TXT records are free text fields where any text-based data can be stored. TXT re
 -   `@ TXT "MS=ms12345678"`
 
 As you can see, as the name implies, TXT records are strings of text.
+
+### Making A Request
+
+![image](.attachments/559d3d77226794fd6070c259d368172df1b505d6.png) 
+
+### NS Lookup
+
+![image](.attachments/6b2c639f66299f58d2f3d73486a544bc6e84ac9b.png) 
+
