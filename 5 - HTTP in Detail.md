@@ -29,3 +29,27 @@ HTTPS is the secure version of HTTP. HTTPS data is encrypted so it not only stop
 **Making a Request**
 
 It's possible to make a request to a web server with just one line **GET / HTTP/1.1**
+
+![image](.attachments/b96bd2b07422460a8c8fb35a59c002ba763a0f70.png) 
+
+![image](.attachments/1c555194c4dfd510e162d7959862e9e9966f3469.png) 
+
+### HTTP Methods
+
+HTTP methods are a way for the client to show their intended action when making an HTTP request. There are a lot of HTTP methods but we'll cover the most common ones, although mostly you'll deal with the GET and POST method.
+
+**GET Request**
+
+This is used for getting information from a web server.  
+
+**POST Request**
+
+This is used for submitting data to the web server and potentially creating new records  
+
+**PUT Request**
+
+This is used for submitting data to a web server to update information
+
+**DELETE Request**  
+
+This is used for deleting information/records from a web server.
