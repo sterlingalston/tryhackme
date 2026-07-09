@@ -117,3 +117,19 @@ These are the headers that are returned to the client from the server after a re
 **Content-Type:** This tells the client what type of data is being returned, i.e., HTML, CSS, JavaScript, Images, PDF, Video, etc. Using the content-type header the browser then knows how to process the data.  
 
 **Content-Encoding:** What method has been used to compress the data to make it smaller when sending it over the internet.
+
+### Cookies
+
+- saved when you receive a "Set-Cookie" header from a web server
+- cookies remind web server who you are/settings for the website
+- ![image](.attachments/867fb6547f2e6490039fe469fa4bb4ca59a9f01c.png)
+
+### Making Requests
+
+![image](.attachments/93372c4b27e6ee8fb9d4df3f0883016eb129ebed.png) 
+- setting id to 1
+- ![image](.attachments/cb8bb3f067be79a4aeef24f0203f5efcf88c28b4.png)
+- sending DELETE request
+- ![image](.attachments/da97b7074c3297151899a8c564f9cbc64230e1c7.png)
+- sending a PUT
+- ![image](.attachments/3a65434620478c31d3f3fbda99517e15b85f278d.png) 
