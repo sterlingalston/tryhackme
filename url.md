@@ -1,7 +1,7 @@
-https://tryhackme.com/room/howwebsiteswork
+Roadmap: https://tryhackme.com/hacktivities
 
-WATCH THE VIDEO
+https://tryhackme.com/room/offensivesecurityintro
 
-resume: https://www.noteshub.app/notebooks/github/sterlingalston%2Ftryhackme/How%20The%20Web%20Works/6%20-%20How%20Websites%20Work.md
+resume: https://www.noteshub.app/notebooks/github/sterlingalston%2Ftryhackme/Offensive%20Security%20Intro/1%20-%20think_like_a_hacker.md
 
 rooms: https://tryhackme.com/rooms
